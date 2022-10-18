@@ -7,7 +7,7 @@
   align-items: center;
 
   border-radius: 10px;
-  border: solid gray;
+  border: solid rgb(128, 34, 34);
 }
 .avatar {
   width: 80%;
